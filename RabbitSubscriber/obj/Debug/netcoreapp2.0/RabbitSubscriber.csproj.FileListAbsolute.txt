@@ -1,0 +1,13 @@
+c:\Users\filipek\Source\Repos\Rabbit\RabbitSubscriber\bin\Debug\netcoreapp2.0\RabbitSubscriber.deps.json
+c:\Users\filipek\Source\Repos\Rabbit\RabbitSubscriber\bin\Debug\netcoreapp2.0\RabbitSubscriber.runtimeconfig.json
+c:\Users\filipek\Source\Repos\Rabbit\RabbitSubscriber\bin\Debug\netcoreapp2.0\RabbitSubscriber.runtimeconfig.dev.json
+c:\Users\filipek\Source\Repos\Rabbit\RabbitSubscriber\bin\Debug\netcoreapp2.0\RabbitSubscriber.dll
+c:\Users\filipek\Source\Repos\Rabbit\RabbitSubscriber\obj\Debug\netcoreapp2.0\RabbitSubscriber.csprojResolveAssemblyReference.cache
+c:\Users\filipek\Source\Repos\Rabbit\RabbitSubscriber\obj\Debug\netcoreapp2.0\RabbitSubscriber.csproj.CoreCompileInputs.cache
+c:\Users\filipek\Source\Repos\Rabbit\RabbitSubscriber\obj\Debug\netcoreapp2.0\RabbitSubscriber.AssemblyInfoInputs.cache
+c:\Users\filipek\Source\Repos\Rabbit\RabbitSubscriber\obj\Debug\netcoreapp2.0\RabbitSubscriber.AssemblyInfo.cs
+c:\Users\filipek\Source\Repos\Rabbit\RabbitSubscriber\bin\Debug\netcoreapp2.0\RabbitSubscriber.pdb
+c:\Users\filipek\Source\Repos\Rabbit\RabbitSubscriber\bin\Debug\netcoreapp2.0\Order.Messages.dll
+c:\Users\filipek\Source\Repos\Rabbit\RabbitSubscriber\bin\Debug\netcoreapp2.0\Order.Messages.pdb
+c:\Users\filipek\Source\Repos\Rabbit\RabbitSubscriber\obj\Debug\netcoreapp2.0\RabbitSubscriber.dll
+c:\Users\filipek\Source\Repos\Rabbit\RabbitSubscriber\obj\Debug\netcoreapp2.0\RabbitSubscriber.pdb

@@ -1,0 +1,13 @@
+c:\users\filipek\Source\Repos\Rabbit\Rabbit\bin\Release\netcoreapp2.0\Rabbit.deps.json
+c:\users\filipek\Source\Repos\Rabbit\Rabbit\bin\Release\netcoreapp2.0\Rabbit.runtimeconfig.json
+c:\users\filipek\Source\Repos\Rabbit\Rabbit\bin\Release\netcoreapp2.0\Rabbit.runtimeconfig.dev.json
+c:\users\filipek\Source\Repos\Rabbit\Rabbit\bin\Release\netcoreapp2.0\Rabbit.dll
+c:\users\filipek\Source\Repos\Rabbit\Rabbit\bin\Release\netcoreapp2.0\Rabbit.pdb
+c:\users\filipek\Source\Repos\Rabbit\Rabbit\bin\Release\netcoreapp2.0\Order.Messages.dll
+c:\users\filipek\Source\Repos\Rabbit\Rabbit\bin\Release\netcoreapp2.0\Order.Messages.pdb
+c:\users\filipek\Source\Repos\Rabbit\Rabbit\obj\Release\netcoreapp2.0\Rabbit.csprojResolveAssemblyReference.cache
+c:\users\filipek\Source\Repos\Rabbit\Rabbit\obj\Release\netcoreapp2.0\Rabbit.csproj.CoreCompileInputs.cache
+c:\users\filipek\Source\Repos\Rabbit\Rabbit\obj\Release\netcoreapp2.0\Rabbit.AssemblyInfoInputs.cache
+c:\users\filipek\Source\Repos\Rabbit\Rabbit\obj\Release\netcoreapp2.0\Rabbit.AssemblyInfo.cs
+c:\users\filipek\Source\Repos\Rabbit\Rabbit\obj\Release\netcoreapp2.0\Rabbit.dll
+c:\users\filipek\Source\Repos\Rabbit\Rabbit\obj\Release\netcoreapp2.0\Rabbit.pdb

@@ -1,0 +1,8 @@
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\bin\Debug\netcoreapp2.0\Order.Messages.deps.json
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\bin\Debug\netcoreapp2.0\Order.Messages.dll
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\bin\Debug\netcoreapp2.0\Order.Messages.pdb
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.csproj.CoreCompileInputs.cache
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.AssemblyInfoInputs.cache
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.AssemblyInfo.cs
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.dll
+c:\Users\filipek\Source\Repos\Rabbit\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.pdb
