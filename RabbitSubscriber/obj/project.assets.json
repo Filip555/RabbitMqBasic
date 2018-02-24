@@ -4812,7 +4812,7 @@
       ]
     },
     "System.Runtime.Serialization.Formatters/4.3.0": {
-      "sha512": "IPDHfUAkBbg190B0cjhhrbCS3DDz2/Ea48doRFraKbDqEZ7kze3j8VnHpv8ErbsB25+FQbglZRawUsfUGxF6sA==",
+      "sha512": "KT591AkTNFOTbhZlaeMVvfax3RqhH1EJlcwF50Wm7sfnBLuHiOeZRRKrr1ns3NESkM20KPZ5Ol/ueMq5vg4QoQ==",
       "type": "package",
       "path": "system.runtime.serialization.formatters/4.3.0",
       "files": [
@@ -5882,11 +5882,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\Users\\filipek\\Source\\Repos\\Rabbit\\RabbitSubscriber\\RabbitSubscriber.csproj",
+      "projectUniqueName": "C:\\Users\\filipek\\Source\\Repos\\Rabbit\\RabbitSubscriber\\RabbitSubscriber.csproj",
       "projectName": "RabbitSubscriber",
-      "projectPath": "c:\\Users\\filipek\\Source\\Repos\\Rabbit\\RabbitSubscriber\\RabbitSubscriber.csproj",
+      "projectPath": "C:\\Users\\filipek\\Source\\Repos\\Rabbit\\RabbitSubscriber\\RabbitSubscriber.csproj",
       "packagesPath": "C:\\Users\\filipek\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\filipek\\Source\\Repos\\Rabbit\\RabbitSubscriber\\obj\\",
+      "outputPath": "C:\\Users\\filipek\\Source\\Repos\\Rabbit\\RabbitSubscriber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5901,13 +5901,14 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Users\\filipek\\.dotnet\\NuGetFallbackFolder": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/sa1T4jSmjNTsxU5iUBLYGfLPzVzIEhJVXAwiYkuuulh7iwRIjo/api": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\Users\\filipek\\Source\\Repos\\Rabbit\\Order.Messages\\Order.Messages.csproj": {
-              "projectPath": "c:\\Users\\filipek\\Source\\Repos\\Rabbit\\Order.Messages\\Order.Messages.csproj"
+            "C:\\Users\\filipek\\Source\\Repos\\Rabbit\\Order.Messages\\Order.Messages.csproj": {
+              "projectPath": "C:\\Users\\filipek\\Source\\Repos\\Rabbit\\Order.Messages\\Order.Messages.csproj"
             }
           }
         }
@@ -5923,11 +5924,11 @@
         "dependencies": {
           "EasyNetQ": {
             "target": "Package",
-            "version": "2.2.0"
+            "version": "[2.2.0, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },

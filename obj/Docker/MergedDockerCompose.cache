@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  rabbit:
+    build:
+      context: c:\Users\filipek\Source\Repos\Rabbit\Rabbit
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: rabbit
+    ports:
+    - 80/tcp
+version: '3.0'

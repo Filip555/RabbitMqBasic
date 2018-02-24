@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\Users\\filipek\\Source\\Repos\\Rabbit\\Order.Messages\\Order.Messages.csproj",
+      "projectUniqueName": "C:\\Users\\filipek\\Source\\Repos\\Rabbit\\Order.Messages\\Order.Messages.csproj",
       "projectName": "Order.Messages",
-      "projectPath": "c:\\Users\\filipek\\Source\\Repos\\Rabbit\\Order.Messages\\Order.Messages.csproj",
+      "projectPath": "C:\\Users\\filipek\\Source\\Repos\\Rabbit\\Order.Messages\\Order.Messages.csproj",
       "packagesPath": "C:\\Users\\filipek\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\filipek\\Source\\Repos\\Rabbit\\Order.Messages\\obj\\",
+      "outputPath": "C:\\Users\\filipek\\Source\\Repos\\Rabbit\\Order.Messages\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -692,7 +692,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Users\\filipek\\.dotnet\\NuGetFallbackFolder": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/sa1T4jSmjNTsxU5iUBLYGfLPzVzIEhJVXAwiYkuuulh7iwRIjo/api": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
@@ -711,7 +712,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
